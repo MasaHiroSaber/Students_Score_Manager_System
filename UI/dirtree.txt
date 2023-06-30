@@ -1,0 +1,117 @@
+卷 SoftwareGames 的文件夹 PATH 列表
+卷序列号为 00000073 E8BB:E1E9
+E:\PYCHARM\DATABASE\UI
+│  connectDataBase.py
+│  dirtree.txt
+│  global_var.py
+│  login.py
+│  LoginWindow.py
+│  MainWindow.py
+│  resources_rc.py
+│  
+├─common
+│  │  config.py
+│  │  icon.py
+│  │  resource.py
+│  │  signal_bus.py
+│  │  style_sheet.py
+│  │  trie.py
+│  │  
+│  └─__pycache__
+│          config.cpython-310.pyc
+│          icon.cpython-310.pyc
+│          resource.cpython-310.pyc
+│          signal_bus.cpython-310.pyc
+│          style_sheet.cpython-310.pyc
+│          trie.cpython-310.pyc
+│          
+├─components
+│  │  avatar_widget.py
+│  │  frameless_window.py
+│  │  link_card.py
+│  │  sample_card.py
+│  │  
+│  └─__pycache__
+│          avatar_widget.cpython-310.pyc
+│          frameless_window.cpython-310.pyc
+│          link_card.cpython-310.pyc
+│          sample_card.cpython-310.pyc
+│          
+├─config
+│      config.json
+│      
+├─resource
+│  │  background.png
+│  │  login.png
+│  │  resource.qrc
+│  │  
+│  └─qss
+│      ├─dark
+│      │      gallery_interface.qss
+│      │      home_interface.qss
+│      │      icon_interface.qss
+│      │      link_card.qss
+│      │      main_window.qss
+│      │      navigation_view_interface.qss
+│      │      sample_card.qss
+│      │      setting_interface.qss
+│      │      view_interface.qss
+│      │      
+│      └─light
+│              gallery_interface.qss
+│              home_interface.qss
+│              icon_interface.qss
+│              link_card.qss
+│              main_window.qss
+│              navigation_view_interface.qss
+│              sample_card.qss
+│              setting_interface.qss
+│              view_interface.qss
+│              
+├─view
+│  │  admin_account.py
+│  │  admin_cou.py
+│  │  admin_page.py
+│  │  admin_stu.py
+│  │  admin_tea.py
+│  │  entry_grades.py
+│  │  gallery_interface.py
+│  │  icon_interface.py
+│  │  info_account.py
+│  │  info_score.py
+│  │  info_students.py
+│  │  info_teachers.py
+│  │  main_window.py
+│  │  setting_interface.py
+│  │  stu_page.py
+│  │  tea_page.py
+│  │  title_bar.py
+│  │  
+│  └─__pycache__
+│          admin_account.cpython-310.pyc
+│          admin_cou.cpython-310.pyc
+│          admin_page.cpython-310.pyc
+│          admin_stu.cpython-310.pyc
+│          admin_tea.cpython-310.pyc
+│          entry_grades.cpython-310.pyc
+│          gallery_interface.cpython-310.pyc
+│          icon_interface.cpython-310.pyc
+│          info_account.cpython-310.pyc
+│          info_score.cpython-310.pyc
+│          info_students.cpython-310.pyc
+│          info_teachers.cpython-310.pyc
+│          main_window.cpython-310.pyc
+│          setting_interface.cpython-310.pyc
+│          stu_page.cpython-310.pyc
+│          tea_page.cpython-310.pyc
+│          title_bar.cpython-310.pyc
+│          
+└─__pycache__
+        connectDataBase.cpython-310.pyc
+        global_var.cpython-310.pyc
+        login.cpython-310.pyc
+        LoginWindow.cpython-310.pyc
+        MainWindow.cpython-310.pyc
+        resources_rc.cpython-310.pyc
+        resource_rc.cpython-310.pyc
+        
